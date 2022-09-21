@@ -12,13 +12,11 @@ body {
 .title {
   text-align: center;
   width: 60%;
-  margin: 65px 20% 0;
+  margin: 30px 20% 0;
 }
 
-nav{
-    position: fixed;
-    width: 100%;
-    top: 0;
+#page-title{
+  font-family: "IM Fell DW Pica", serif;
 }
 
 nav a{
@@ -37,7 +35,6 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #7f7f7f;
-  position: sticky;
   top: 0;
 }
 
